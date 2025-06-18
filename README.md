@@ -13,7 +13,7 @@ A compact ambient system using the ESP32-S3 to monitor temperature and humidity 
 ## Hardware Used
 
 - ESP32-S3 microcontroller (with built-in screen)
-- DHT20 temp/humidity sensor
+- AHT20+BMP280 temp/humidity sensor
 - Optional: 3D printed 120mm fan mount
 - Power source via USB C
 
